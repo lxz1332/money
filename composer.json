@@ -1,8 +1,13 @@
 {
-    "name": "dr/cwkj-money",
-    "description": "余额 流水",
+    "name": "cwkj/money",
+    "description": "余额和流水操作",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+	"autoload":{
+		"psr-4":{
+			"cwkj\\money\\":"src/"
+		}
+	}
 }
