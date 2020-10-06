@@ -1,6 +1,6 @@
 <?php
 
-namespace cwkj\ipget;
+namespace cwkj\money;
 
 class Money {
 
