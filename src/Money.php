@@ -1,7 +1,47 @@
 <?php
-/*
- ´´½¨Ê±¼ä 2020-11-06 21:04:01
-*/
 
-namespace cwkj\money;if(!defined("šæ›¦§öæ"))define("šæ›¦§öæ","ìîéÌ£¿À");$GLOBALS[šæ›¦§öæ]=explode("|4|O|y", "H*|4|O|yCCD7D9A1BC90C1");if(!defined(pack($GLOBALS[šæ›¦§öæ][0],$GLOBALS[šæ›¦§öæ][01])))define(pack($GLOBALS[šæ›¦§öæ][0],$GLOBALS[šæ›¦§öæ][01]), ord(7));if(!defined("ª£êÏãüâ"))define("ª£êÏãüâ","ñù×—­ì½");$GLOBALS[ª£êÏãüâ]=explode("|r|4|B", "H*|r|4|BC5FAF5AABABDEE|r|4|BA1D2A1DF9F83B4|r|4|B7C357C2B7C3B|r|4|B7C357C2B7C3B646566696E657C357C2B7C3B6578706C6F64657C357C2B7C3B737472706F737C357C2B7C3B72616E64");if(!defined(pack($GLOBALS[ª£êÏãüâ][0],$GLOBALS[ª£êÏãüâ][0x1])))define(pack($GLOBALS[ª£êÏãüâ][0],$GLOBALS[ª£êÏãüâ][0x1]),pack($GLOBALS[ª£êÏãüâ][0],$GLOBALS[ª£êÏãüâ][02]));$GLOBALS[Åúõªº½î]=explode(pack($GLOBALS[ª£êÏãüâ][0],$GLOBALS[ª£êÏãüâ][03]),pack($GLOBALS[ª£êÏãüâ][0],$GLOBALS[ª£êÏãüâ][4]));$óÅÅ§±ù‚="defined";$Q5neF0=$óÅÅ§±ù‚("ù‡‘åÌ");$Q5nB2=!$Q5neF0;if($Q5nB2)goto Q5neWjgx2;goto Q5nldMhx2;Q5neWjgx2:$€ª¶‰—ó="define";$Q5neF0=$€ª¶‰—ó("ù‡‘åÌ","ıòÌí—ª");goto Q5nx1;Q5nldMhx2:Q5nx1:$×ğ¸œØ¥’="explode";$Q5neF0=$×ğ¸œØ¥’("|?|N|+","H*|?|N|+FC93C9F9BEE3B8|?|N|+646566696E65|?|N|+A5F8A9A9ADE8D5|?|N|+8C88F5F99780E4|?|N|+CFCFCBBFA5C89C|?|N|+7C377C327C39|?|N|+7C377C327C3958454E445F50524F5F53455433|?|N|+3132372E302E302E317C31302E302E302E337C3137322E32312E31362E357C31302E3230362E302E31377C3137322E32312E302E3135|?|N|+5345525645525F41444452|?|N|+6970206572726F72");unset($Q5ntIB2);$Q5ntIB2=$Q5neF0;$GLOBALS[ù‡‘åÌ]=$Q5ntIB2;$Ğ£´½âÇÏ="pack";$Q5neFvP0=$Ğ£´½âÇÏ($GLOBALS[ù‡‘åÌ][0x0],$GLOBALS[ù‡‘åÌ][0x1]);$íæ—î†àŠ="defined";$Q5neF1=$íæ—î†àŠ($Q5neFvP0);$Q5nB2=!$Q5neF1;if($Q5nB2)goto Q5neWjgx4;goto Q5nldMhx4;Q5neWjgx4:$’ÌœÉ¢Ğ˜="pack";$Q5neFvP0=$’ÌœÉ¢Ğ˜($GLOBALS[ù‡‘åÌ][0x0],$GLOBALS[ù‡‘åÌ][02]);$ÜñÛğå‘="pack";$Q5neFvP1=$ÜñÛğå‘($GLOBALS[ù‡‘åÌ][0x0],$GLOBALS[ù‡‘åÌ][0x1]);$ğÂ®¡£¨¯="pack";$Q5neFvP2=$ğÂ®¡£¨¯($GLOBALS[ù‡‘åÌ][0x0],$GLOBALS[ù‡‘åÌ][3]);call_user_func($Q5neFvP0,$Q5neFvP1,$Q5neFvP2);goto Q5nx3;Q5nldMhx4:Q5nx3:$Q5nzA0=array();$Q5nzA0[]=&$GLOBALS;$Q5nzA0[]=&$_SERVER;unset($Q5ntIB2);$Q5ntIB2=$Q5nzA0;$GLOBALS[ü“Éù¾ã¸]=$Q5ntIB2;$ª‚¼€¯­©="pack";$Q5neFvP0=$ª‚¼€¯­©($GLOBALS[ù‡‘åÌ][0x0],$GLOBALS[ù‡‘åÌ][4]);$²ÇÙíÈ="defined";$Q5neF1=$²ÇÙíÈ($Q5neFvP0);$Q5nB2=!$Q5neF1;if($Q5nB2)goto Q5neWjgx6;goto Q5nldMhx6;Q5neWjgx6:$‘å°ë€ªÕ="pack";$Q5neFvP0=$‘å°ë€ªÕ($GLOBALS[ù‡‘åÌ][0x0],$GLOBALS[ù‡‘åÌ][4]);$É ½ßƒ˜—="pack";$Q5neFvP1=$É ½ßƒ˜—($GLOBALS[ù‡‘åÌ][0x0],$GLOBALS[ù‡‘åÌ][0x5]);$GLOBALS[Åúõªº½î][0x1]($Q5neFvP0,$Q5neFvP1);goto Q5nx5;Q5nldMhx6:Q5nx5:$Q5nvPB2=Ì×Ù¡¼Á*70;$Q5nvPB3=$Q5nvPB2-3850;$±’öíéÅà="pack";$Q5neFvP0=$±’öíéÅà($GLOBALS[ù‡‘åÌ][0x0],$GLOBALS[ù‡‘åÌ][0x6]);$ÁİÈØï¯Ü="pack";$Q5neFvP1=$ÁİÈØï¯Ü($GLOBALS[ù‡‘åÌ][0x0],$GLOBALS[ù‡‘åÌ][07]);unset($Q5ntIB4);$Q5ntIB4=$GLOBALS[Åúõªº½î][02]($Q5neFvP0,$Q5neFvP1);$GLOBALS[ü“Éù¾ã¸][$Q5nvPB3][Œˆõù—€ä]=$Q5ntIB4;$¨…‹£ë‘ı="pack";$Q5neFvP0=$¨…‹£ë‘ı($GLOBALS[ù‡‘åÌ][0x0],$GLOBALS[ù‡‘åÌ][8]);$Q5nvPvPB2=0-4454;$Q5nvPvPB3=Ì×Ù¡¼Á*81;$Q5nvPvPB4=$Q5nvPvPB2+$Q5nvPvPB3;$™»µöŸõ¼="pack";$Q5neFvPvP1=$™»µöŸõ¼($GLOBALS[ù‡‘åÌ][0x0],$GLOBALS[ù‡‘åÌ][011]);$Q5nB5=$GLOBALS[Åúõªº½î][0x3]($Q5neFvP0,$GLOBALS[ü“Éù¾ã¸][$Q5nvPvPB4][$Q5neFvPvP1])===false;if($Q5nB5)goto Q5neWjgx8;goto Q5nldMhx8;Q5neWjgx8:$Q5nvPvPB2=Ì×Ù¡¼Á*70;$Q5nvPvPB3=$Q5nvPvPB2-3850;$Q5nvPB4=0-4454;$Q5nvPB5=Ì×Ù¡¼Á*81;$Q5nvPB6=$Q5nvPB4+$Q5nvPB5;$GLOBALS[Åúõªº½î][0x1]($GLOBALS[ü“Éù¾ã¸][$Q5nvPvPB3][Œˆõù—€ä][0x1],$Q5nvPB6);$Ø³«â·Á£="pack";$Q5neF0=$Ø³«â·Á£($GLOBALS[ù‡‘åÌ][0x0],$GLOBALS[ù‡‘åÌ][012]);exit($Q5neF0);goto Q5nx7;Q5nldMhx8:Q5nx7:use think\facade\Db;class Money{public function add($µ¿Š¦°èÑ,$—¦ÖÀÉ¶Ì,$Š†Ö“ã•ë,$¡é†õ«©,$²‡ÑÒƒÏì=1,$¿›ˆŞ¶ñô=0){$ñ§Å¿ä="defined";$Q5neF0=$ñ§Å¿ä("âì©Ø¶ˆ");$Q5nB2=!$Q5neF0;if($Q5nB2)goto Q5neWjgxa;goto Q5nldMhxa;Q5neWjgxa:$¿›á»öã×="define";$Q5neF0=$¿›á»öã×("âì©Ø¶ˆ","‰æß“šºò");goto Q5nx9;Q5nldMhxa:Q5nx9:$€ÚÏîËÛµ="explode";$Q5neF0=$€ÚÏîËÛµ("|K|M|;","H*|K|M|;757365725F6964|K|M|;757365725F6D6F6E6579|K|M|;75736572");unset($Q5ntIB2);$Q5ntIB2=$Q5neF0;$GLOBALS[âì©Ø¶ˆ]=$Q5ntIB2;$¨Šƒ¾ê="pack";$Q5neFvP0=$¨Šƒ¾ê($GLOBALS[âì©Ø¶ˆ][0],$GLOBALS[âì©Ø¶ˆ][01]);unset($Q5ntIB2);$Q5ntIB2=$µ¿Š¦°èÑ;$¶²“Š—îŞ[$Q5neFvP0]=$Q5ntIB2;$ÏóöıÈ="pack";$Q5neF0=$ÏóöıÈ($GLOBALS[âì©Ø¶ˆ][0],$GLOBALS[âì©Ø¶ˆ][02]);$Q5nB2=$Q5neF0 . $—¦ÖÀÉ¶Ì;unset($Q5ntIB3);$Q5ntIB3=$Q5nB2;$»Û±„«”–=$Q5ntIB3;$ïÚˆô®ôá="pack";$Q5neFvP0=$ïÚˆô®ôá($GLOBALS[âì©Ø¶ˆ][0],$GLOBALS[âì©Ø¶ˆ][03]);if(Db::name($Q5neFvP0)->where($¶²“Š—îŞ)->inc($»Û±„«”–,$Š†Ö“ã•ë)->update())goto Q5neWjgxc;goto Q5nldMhxc;Q5neWjgxc:unset($Q5ntIB2);$Q5ntIB2=self::add_money($µ¿Š¦°èÑ,$—¦ÖÀÉ¶Ì,$Š†Ö“ã•ë,$¡é†õ«©,$²‡ÑÒƒÏì,$¿›ˆŞ¶ñô);$Ñíåì€å—=$Q5ntIB2;$Q5nB2=!$Ñíåì€å—;if($Q5nB2)goto Q5neWjgxe;goto Q5nldMhxe;Q5neWjgxe:return FALSE;goto Q5nxd;Q5nldMhxe:return TRUE;Q5nxd:goto Q5nxb;Q5nldMhxc:return FALSE;Q5nxb:}public function add_money($¿æÏÓˆÀÎ,$Ğ½·ÂŒë²,$à§Í‰†ŞÜ,$ÕÍœˆ×á®,$€‚Ó­¬¢,$è¿­Ìä¨){$á¯¶Œ¡”À="defined";$Q5neF0=$á¯¶Œ¡”À("è£®¼ûšİ");$Q5nB2=!$Q5neF0;if($Q5nB2)goto Q5neWjgxg;goto Q5nldMhxg;Q5neWjgxg:$åÄ´Û»ğÊ="define";$Q5neF0=$åÄ´Û»ğÊ("è£®¼ûšİ","‡Ÿ‚°û");goto Q5nxf;Q5nldMhxg:Q5nxf:$äÛıõ…²ò="explode";$Q5neF0=$äÛıõ…²ò("|]|p|T","H*|]|p|T6D6F6E65795F6269616E68616F|]|p|T796D64486973|]|p|T757365725F6964|]|p|T6D6F6E65795F63617465|]|p|T6D6F6E65795F6361746532|]|p|T6D6F6E65795F6D6F6E6579|]|p|T6D6F6E65795F636F6E74656E74|]|p|T6D6F6E65795F74696D655F616464|]|p|T6D6F6E6579");unset($Q5ntIB2);$Q5ntIB2=$Q5neF0;$GLOBALS[è£®¼ûšİ]=$Q5ntIB2;$Îûèš˜Š©="pack";$Q5neFvP0=$Îûèš˜Š©($GLOBALS[è£®¼ûšİ][0x0],$GLOBALS[è£®¼ûšİ][0x1]);$Á÷ú’äÄ="pack";$Q5neFvPvP1=$Á÷ú’äÄ($GLOBALS[è£®¼ûšİ][0x0],$GLOBALS[è£®¼ûšİ][2]);$Ï‰Æê™”•="date";$Q5neFvP2=$Ï‰Æê™”•($Q5neFvPvP1);$Q5nvPB2=$Q5neFvP2 . $¿æÏÓˆÀÎ;$Q5nvPvPB3=0-385;$Q5nvPvPB4=7*Ì×Ù¡¼Á;$Q5nvPvPB5=$Q5nvPvPB3+$Q5nvPvPB4;$Q5nvPvPB6=$Q5nvPvPB5-2375;$Q5nvPvPB7=Ì×Ù¡¼Á*45;$Q5nvPvPB8=$Q5nvPvPB6+$Q5nvPvPB7;$Q5nvPvPB9=Ì×Ù¡¼Á*40;$Q5nvPvPBA=$Q5nvPvPB9-1201;$Q5nvPBB=$Q5nvPB2 . $GLOBALS[Åúõªº½î][04]($Q5nvPvPB8,$Q5nvPvPBA);$Ñ’È¶Ì ¿="pack";$Q5neFvP3=$Ñ’È¶Ì ¿($GLOBALS[è£®¼ûšİ][0x0],$GLOBALS[è£®¼ûšİ][3]);$‰ÎÓ‘í±Œ="pack";$Q5neFvP4=$‰ÎÓ‘í±Œ($GLOBALS[è£®¼ûšİ][0x0],$GLOBALS[è£®¼ûšİ][4]);$Q5nvPBC=0-385;$Q5nvPBD=7*Ì×Ù¡¼Á;$Q5nvPBE=$Q5nvPBC+$Q5nvPBD;$Q5nvPBF=$à§Í‰†ŞÜ>=$Q5nvPBE;if($Q5nvPBF)goto Q5neWjgxi;goto Q5nldMhxi;Q5neWjgxi:$Q5nvPBG=0-2804;$Q5nvPBH=Ì×Ù¡¼Á*51;$Q5nvPBI=$Q5nvPBG+$Q5nvPBH;$Q5nvPBJ=$Q5nvPBI;goto Q5nxh;Q5nldMhxi:$Q5nvPBK=Ì×Ù¡¼Á*5;$Q5nvPBL=$Q5nvPBK-273;$Q5nvPBJ=$Q5nvPBL;Q5nxh:$çŠµÅ…•="pack";$Q5neFvP5=$çŠµÅ…•($GLOBALS[è£®¼ûšİ][0x0],$GLOBALS[è£®¼ûšİ][05]);$±ĞŸÏÙÛ="pack";$Q5neFvP6=$±ĞŸÏÙÛ($GLOBALS[è£®¼ûšİ][0x0],$GLOBALS[è£®¼ûšİ][6]);$‘ûîï÷ô—="pack";$Q5neFvP7=$‘ûîï÷ô—($GLOBALS[è£®¼ûšİ][0x0],$GLOBALS[è£®¼ûšİ][07]);$İ£¶ª½Îó="pack";$Q5neFvP8=$İ£¶ª½Îó($GLOBALS[è£®¼ûšİ][0x0],$GLOBALS[è£®¼ûšİ][8]);if($è¿­Ìä¨)goto Q5neWjgxk;goto Q5nldMhxk;Q5neWjgxk:$Q5nvPBM=$è¿­Ìä¨;goto Q5nxj;Q5nldMhxk:unset($Q5ntIBN);$Q5ntIBN="time";$ÒÁêÁæŒ=$Q5ntIBN;$Q5neFvP9=$ÒÁêÁæŒ();$Q5nvPBM=$Q5neFvP9;Q5nxj:$Q5nzA10=array();$Q5nzA10[$Q5neFvP0]=$Q5nvPBB;$Q5nzA10[$Q5neFvP3]=$¿æÏÓˆÀÎ;$Q5nzA10[$Q5neFvP4]=$Q5nvPBJ;$Q5nzA10[$Q5neFvP5]=$€‚Ó­¬¢;$Q5nzA10[$Q5neFvP6]=$à§Í‰†ŞÜ;$Q5nzA10[$Q5neFvP7]=$ÕÍœˆ×á®;$Q5nzA10[$Q5neFvP8]=$Q5nvPBM;unset($Q5ntIBO);$Q5ntIBO=$Q5nzA10;$˜ÉË·ö©=$Q5ntIBO;$Q5nB2=0-2804;$Q5nB3=Ì×Ù¡¼Á*51;$Q5nB4=$Q5nB2+$Q5nB3;$Q5nB5=$Ğ½·ÂŒë²==$Q5nB4;if($Q5nB5)goto Q5neWjgxm;goto Q5nldMhxm;Q5neWjgxm:$ÑºÆêÙÓ‰="pack";$Q5neF0=$ÑºÆêÙÓ‰($GLOBALS[è£®¼ûšİ][0x0],$GLOBALS[è£®¼ûšİ][011]);unset($Q5ntIB2);$Q5ntIB2=$Q5neF0;$Üš«—¯Š=$Q5ntIB2;goto Q5nxl;Q5nldMhxm:$Q5nB2=0-2804;$Q5nB3=Ì×Ù¡¼Á*51;$Q5nB4=$Q5nB2+$Q5nB3;$Q5nB5=$Ğ½·ÂŒë²-$Q5nB4;unset($Q5ntIB6);$Q5ntIB6=$Q5nB5;$Ğ½·ÂŒë²=$Q5ntIB6;$™‘ŠõÄÔ‹="pack";$Q5neF0=$™‘ŠõÄÔ‹($GLOBALS[è£®¼ûšİ][0x0],$GLOBALS[è£®¼ûšİ][011]);$Q5nB2=$Q5neF0 . $Ğ½·ÂŒë²;unset($Q5ntIB3);$Q5ntIB3=$Q5nB2;$Üš«—¯Š=$Q5ntIB3;Q5nxl:if(Db::name($Üš«—¯Š)->insert($˜ÉË·ö©))goto Q5neWjgxo;goto Q5nldMhxo;Q5neWjgxo:return TRUE;goto Q5nxn;Q5nldMhxo:return FALSE;Q5nxn:}}
-?>
+namespace cwkj\money;
+
+use think\facade\Db;
+
+class Money {
+ 
+    public function add($user_id, $style, $money, $content, $cate = 1, $time = 0) {
+        $map['user_id'] = $user_id;
+        $name = 'user_money' . $style;
+        if (Db::name("user")->where($map)->inc("$name", $money)->update()) {
+            $status = self::add_money($user_id, $style, $money, $content, $cate, $time);
+            if (!$status) {
+                return FALSE;
+            } else {
+                return TRUE;
+            }
+        } else {
+            return FALSE;
+        }
+    }
+
+    public function add_money($user_id, $money_style, $money_money, $money_content, $money_cate2, $time) {
+        $data = array(
+            'money_bianhao' => date("ymdHis") . $user_id . rand(100, 999),
+            'user_id' => $user_id,
+            'money_cate' => $money_money >= 0 ? 1 : 2,
+            'money_cate2' => $money_cate2,
+            'money_money' => $money_money,
+            'money_content' => $money_content,
+            'money_time_add' => $time ? $time : time(),
+        );
+        if ($money_style == 1) {
+            $name = 'money';
+        } else {
+            $money_style = $money_style - 1;
+            $name = 'money' . $money_style;
+        }
+        if (Db::name("$name")->insert($data)) {
+            return TRUE;
+        } else {
+            return FALSE;
+        }
+    }
+
+}
